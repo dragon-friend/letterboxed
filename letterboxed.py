@@ -7,7 +7,7 @@ def pairup(lst): return [a + b for a in lst for b in lst]
 def concat(a, b): return a + b
 
 
-wordlist = "o300.txt"
+wordlist = "o3000.txt"
 
 triples = [['e', 'i', 'o'],
            ['m', 'c', 't'],
